@@ -15,4 +15,10 @@ To install this application
 ` $ node app.js`
 
 
-## Configuration
+## Requirements
+
+- ELM327 usb -> OBD2 
+- node.js v11.4.x 
+- NPM v6.x
+- CANBUS 1995+ (vehicle newer than 1995)
+- ARM Device + Display 7in
