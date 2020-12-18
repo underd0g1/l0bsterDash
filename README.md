@@ -8,11 +8,11 @@ stream all crucial data from the CAN-BUS to a front end webpage using the OBD2 p
 To install this application
 
 
-` $ git clone https://github.com/underd0g1/l0bsterdash.git
+` $ git clone https://github.com/underd0g1/l0bsterdash.git`
 
-` $ npm install 
+` $ npm install`
 
-` $ node app.js
+` $ node app.js`
 
 
 ## Configuration
